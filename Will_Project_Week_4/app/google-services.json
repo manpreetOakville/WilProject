@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80292860091",
+    "firebase_url": "https://willproject-e0a5d.firebaseio.com",
+    "project_id": "willproject-e0a5d",
+    "storage_bucket": "willproject-e0a5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80292860091:android:27417897cf942892d8599e",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80292860091-2seplhi5pur11tis1trassn5uhmbn2l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOhkTiFvij56DofP__pp7p7iAwQlCMeQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80292860091-2seplhi5pur11tis1trassn5uhmbn2l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
